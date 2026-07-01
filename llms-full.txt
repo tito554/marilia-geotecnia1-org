@@ -1,0 +1,43 @@
+# Geotecnia1 — Marília
+
+> Geotechnical engineering services in Marília, Brasil.
+
+## Services
+- [Ancoragens](https://marilia.geotecnia1.org/ancoragens/)
+- [Ensaio Cpt](https://marilia.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://marilia.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://marilia.geotecnia1.org/escavacoes/)
+- [Fundacoes](https://marilia.geotecnia1.org/fundacoes/)
+- [Geofisica](https://marilia.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://marilia.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://marilia.geotecnia1.org/granulometria/)
+- [Injecoes](https://marilia.geotecnia1.org/injecoes/)
+- [Investigacao](https://marilia.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://marilia.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://marilia.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://marilia.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://marilia.geotecnia1.org/limites-atterberg/)
+- [Masw](https://marilia.geotecnia1.org/masw/)
+- [Melhoramento](https://marilia.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://marilia.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://marilia.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://marilia.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://marilia.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://marilia.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://marilia.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://marilia.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://marilia.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://marilia.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://marilia.geotecnia1.org/resistividade/)
+- [Sapatas](https://marilia.geotecnia1.org/sapatas/)
+- [Sismica](https://marilia.geotecnia1.org/sismica/)
+- [Taludes](https://marilia.geotecnia1.org/taludes/)
+- [Triaxial](https://marilia.geotecnia1.org/triaxial/)
+- [Vibrocompactacao](https://marilia.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://marilia.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Marília, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
